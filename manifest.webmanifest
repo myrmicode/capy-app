@@ -1,0 +1,30 @@
+{
+  "name": "Capy",
+  "short_name": "Capy",
+  "description": "Capy aide les enfants du CP au CM2 à progresser à partir des évaluations Repères.",
+  "lang": "fr",
+  "start_url": "/capy-app/",
+  "scope": "/capy-app/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#faf9f5",
+  "theme_color": "#1f7a6d",
+  "icons": [
+    {
+      "src": "icone-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icone-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icone-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
